@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "82af6d41d9458e63869848410ec0a65c",
   "VITE_APP_NAME": "PerPerp",
   "VITE_APP_DESCRIPTION": "Trade crypto and real-world asset perpetuals on PerPerp. Deep omnichain liquidity, self-custody, and transparent fees.",
   "VITE_HAS_PRIMARY_LOGO": "true",
