@@ -43,5 +43,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ANALYTICS_CONFIG": "{\"version\":1,\"provider\":\"ga4\",\"measurementId\":\"G-LFVKJWSX52\"}",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
-  "VITE_WHITELISTED_IPS": ""
+  "VITE_WHITELISTED_IPS": "14.100.53.184"
 };
