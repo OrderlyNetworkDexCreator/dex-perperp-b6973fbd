@@ -10,7 +10,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DEFAULT_CHAIN": "42161",
   "VITE_PRIVY_APP_ID": "",
   "VITE_PRIVY_LOGIN_METHODS": "email",
-  "VITE_PRIVY_TERMS_OF_USE": "https://perperp.com/terms",
+  "VITE_PRIVY_TERMS_OF_USE": "https://perperp.trade/terms",
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
