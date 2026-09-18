@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard",
-  "VITE_CUSTOM_MENUS": "Learn, http://perperp.trade/masterclass; Leverage, http://perperp.trade/leverage; Refer, http://perperp.trade/refer",
+  "VITE_CUSTOM_MENUS": "Learn, http://perperp.trade/masterclass; 20X, http://perperp.trade/leverage; Refer, http://perperp.trade/refer; Buy, http://perperp.trade/buy",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/perperpdex",
